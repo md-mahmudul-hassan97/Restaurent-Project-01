@@ -1,0 +1,69 @@
+.logo{
+    text-align: center;
+    width: 75px;
+    height: 75px;
+    line-height: 70px;
+    color: rgb(17, 4, 4);
+    border-radius:40%;
+    border: 3px solid whitesmoke;
+}
+
+nav ul li{
+    display: block;
+}
+
+nav ul li a{
+    display: block;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    line-height: 75px;
+    padding: 0 15px;
+    text-transform: uppercase;
+    font-size:0.9rem;
+    font-weight: 'Roboto', sans-serif;
+    transition: .4s;
+
+}
+nav ul li a:hover{
+    border-radius: 10px;
+    background-color: rgb(143, 143, 10);
+}
+
+
+
+
+
+
+#banner-section{
+    position: relative;
+   height: 100vh;
+}
+.banner-contents{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+}
+.banner-contents h1{
+    width:700vh;
+    font-size: 3.4rem;
+}
+
+
+
+
+
+
+
+
+
+https://www.youtube.com/playlist?list... 
+
+()(javascript)
+
+
+
+https://github.com/anisul-Islam/css3-restaurant-project
+
+(project)
